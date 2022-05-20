@@ -1,2 +1,5 @@
 Once we were in the loop....
 slick with information 
+Using this to test or demonstrate my knowledge of git and github
+I'll take time to learn and practise this on my own. 
+This is just the beginning of a greate career in DevOps Engineering
